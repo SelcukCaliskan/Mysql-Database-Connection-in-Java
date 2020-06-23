@@ -1,6 +1,9 @@
 # Mysql-Database-Connection-in-Java
 How to connect to Mysql database in Java Eclipse.
 Arkadaşlar öncelikle yapmanız gerekenler...
+
+
+
 1* 1.kurulum:XAMPP KURULUMU. (Google'dan xampp indir ve sonra yükle).  
 1*Xampp kurulumu  gerçeşleş mi diye control panelinden xampp ara ve tıkla 
 1*Daha sonra  genel xampp panelinden apache ve mysql start butonlarına tıkla ve başlat.
